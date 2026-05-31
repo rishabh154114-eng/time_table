@@ -37,7 +37,7 @@ Execute the program using runserver command.
 <link href="berry.css" rel="stylesheet"\>
 <body>
     <center><img src="Screenshot 2025-03-13 084118.png" height="100px" width="500px" alt="something went wrong"/></center>
-    <center><h3>SLOT TIME TABLE T.Rishabh srivatsav</h3></center>
+    <center><h3>SLOT TIME TABLE T.Rishabh srivatsav-21224113001</h3></center>
     <center><table border="6">
         <tr>
             <td bgcolor="Yellow">Day/Time</td>
